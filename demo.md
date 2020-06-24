@@ -1,0 +1,1 @@
+New file to demonstrate how git branches work "behind the scenes".
